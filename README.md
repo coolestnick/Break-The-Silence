@@ -122,12 +122,3 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 **Backend:** Motoko, Python Flask (OTP Authentication)
 
 ![TechStack](https://cloud.webxspark.com/files/images/break-the-silence-techstack.png)
-
-## ✌️ Our Team
-
-If you have any questions or feedback about the BreakTheSilence, please contact us - 
-
-[Alan Christofer](https://linktr.ee/AlanChristofer)  
-[Jayna Mukesh](https://linktr.ee/jaynamukesh)  
-[Kalpitha S V](https://linktr.ee/kalpithasv)  
-[Mithun Chandar B R](https://linktr.ee/fanofelon)
