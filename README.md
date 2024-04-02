@@ -11,6 +11,11 @@
 Break The Silence is an innovative online platform that provides a safe space for victims of abuse to raise their voices and seek justice.
 Together, we are creating an oasis of support, where every voice matters,every survivor is empowered, and the cycle of this silence is shattered.
 
+## Pitch Link
+
+  <a href="https://docs.google.com/presentation/d/1Ikqxdktn4POiJnNafQynuPCLM9VPpUbZCBbblbe56e4/edit#slide=id.g2c80ff3a51d_0_35" target="_blank" rel="noopener noreferrer">Presentation Link</a>
+
+
 <p align="center">
   <a href="https://wysb7-2qaaa-aaaag-qcf4a-cai.icp0.io/">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
